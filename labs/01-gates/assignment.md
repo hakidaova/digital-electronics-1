@@ -1,4 +1,4 @@
-# Lab 1: HANA DAOVA
+# Lab 1: Hana Daová
 
 ### De Morgan's laws
 
