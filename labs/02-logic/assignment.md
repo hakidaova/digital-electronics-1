@@ -1,4 +1,4 @@
-# Lab 2: HANA DAOVA
+# Lab 2: Hana Daová
 
 ### 2-bit comparator
 
