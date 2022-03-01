@@ -27,6 +27,6 @@
     ![full](https://github.com/hakidaova/digital-electronics-1/blob/main/labs/04-adder/images/full_adder.jpg)
 
 3. Find the relationship between half adder and full adder logic diagrams.
-   **Full adder is basically composed from two half adders that are both conducted to an OR logic gate.**
+   -**Full adder is basically composed from two half adders that are both conducted to an OR logic gate.**
 
 4. See schematic of the [CPLD expansion board](../../Docs/cpld_expansion.pdf) and find out the connection of LEDs, push buttons, and slide switches.
