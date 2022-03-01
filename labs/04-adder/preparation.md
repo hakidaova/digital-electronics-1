@@ -8,6 +8,8 @@
     | 0 | 1 | 0 | 1 |
     | 1 | 0 | 0 | 1 |
     | 1 | 1 | 1 | 0 |
+    
+    ![half](https://github.com/hakidaova/digital-electronics-1/blob/main/labs/04-adder/images/half_adder.jpg)
 
 2. A full adder has three inputs and two outputs. The two inputs are A, B, and Carry input. The outputs are Carry output and Sum. Complete the full adder truth table and draw a logic diagram of both output functions.
 
@@ -21,6 +23,8 @@
     | 1 | 0 | 1 | 1 | 0 |
     | 1 | 1 | 0 | 1 | 0 |
     | 1 | 1 | 1 | 1 | 1 |
+    
+    ![full](https://github.com/hakidaova/digital-electronics-1/blob/main/labs/04-adder/images/full_adder.jpg)
 
 3. Find the relationship between half adder and full adder logic diagrams.
 
