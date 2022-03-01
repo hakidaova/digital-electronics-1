@@ -1,7 +1,5 @@
 # Lab 3: Hana Daová
 
-# Lab 3: YOUR_FIRSTNAME LASTNAME
-
 ### Three-bit wide 4-to-1 multiplexer
 
 1. Listing of VHDL architecture from source file `mux_3bit_4to1.vhd`. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
