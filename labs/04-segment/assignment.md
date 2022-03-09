@@ -14,7 +14,6 @@
         assert (s_seg = "0000001")
         report "Input combination 0000 FAILED" severity error;
 
-
         -- WRITE OTHER TEST CASES HERE
         s_hex <= "0001"; wait for 50 ns;
         assert (s_seg = "1001111")
@@ -75,7 +74,6 @@
         s_hex <= "1111"; wait for 50 ns; 
         assert (s_seg = "0111000")
         report "Input combination 1111 FAILED" severity error;
-
 
         report "Stimulus process finished" severity note;
         wait;
