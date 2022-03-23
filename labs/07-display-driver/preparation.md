@@ -13,7 +13,7 @@ Due to the physiological properties of human vision, it is necessary that the ti
   > The figure above was created in [WaveDrom](https://wavedrom.com/) digital timing diagram online tool. The figure source code is as follows:
   >
   ```javascript
- ## Preparation tasks (done before the lab at home)
+  ## Preparation tasks (done before the lab at home)
 
 A common way to control multiple displays is to gradually switch between them. We control (connect to supply voltage) only one of the displays at a time, as can be seen [here](https://engineeringtutorial.com/seven-segment-display-working-principle/).
 
@@ -79,9 +79,6 @@ Due to the physiological properties of human vision, it is necessary that the ti
     text: '                    4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms',
   },
 }
-  ```
-
-<a name="part1"></a>
   ```
 
 <a name="part1"></a>
