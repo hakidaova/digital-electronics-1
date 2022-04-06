@@ -75,7 +75,7 @@ begin
         generic map(
             -- FOR SIMULATION, CHANGE THIS VALUE TO 4
             -- FOR IMPLEMENTATION, KEEP THIS VALUE TO 400,000
-            g_MAX => 400000 --800000 makes the blinking visible
+            g_MAX => 4 --800000 makes the blinking visible, 400000 not
         )
         port map(
             clk   => clk,
